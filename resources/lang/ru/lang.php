@@ -14,9 +14,9 @@
     'addCount' => 'Вы можете ее добавить самостоятельно',
     'there' => 'здесь',
     'question' => 'Если у вас есть вопросы, свяжитесь со мной!',
-    'flag' => 'Flag',
-    'name' => 'Country name',
-    'population' => 'Population',
-    'area' => 'Area'
+    'flag' => 'Флаг',
+    'name' => 'Название страны',
+    'population' => 'Популяция',
+    'area' => 'Площадь'
     ]
 ?>
