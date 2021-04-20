@@ -4,5 +4,6 @@
 3)Project support english and russian languages;
 4)The ability to send mails for me;
 ## ER Diagram and tables description
-![Безымянный.png]
+![Безымянный](https://user-images.githubusercontent.com/75549391/115452913-d6c87480-a240-11eb-8eac-74147384c83f.png)
+
 Project consist of two tables with one to many relation and they are relates with each other in this way
