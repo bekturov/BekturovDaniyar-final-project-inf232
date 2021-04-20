@@ -1,0 +1,25 @@
+body{
+    background: rgb(191, 177, 250);
+    font-family: 'Teko';
+    font-size: 20px;
+}
+header{
+    font-size: 30px;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+}
+.container{
+    background: rgb(90, 107, 201);
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 5px;
+    margin-top: 25px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 5px;
+}
+.container img{
+    border-radius: 5px;
+    margin-top: 10px;
+}

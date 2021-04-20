@@ -1,0 +1,29 @@
+body{
+    background: rgb(191, 177, 250);
+    font-family: 'Teko';
+    font-size: 20px;
+}
+header{
+    font-size: 30px;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+}
+div{
+    text-align: center;
+}
+.bg_color{
+    background: rgb(90, 107, 201);
+    margin-left: 250px;
+    margin-right: 250px;
+    padding: 10px;
+    border-radius: 5px;
+}
+input{
+    background: rgb(202, 195, 231);
+    border-radius: 5px;
+}
+button{
+    background: rgb(202, 195, 231);
+    border-radius: 5px;
+}
